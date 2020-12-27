@@ -1,2 +1,2 @@
-# D-mineur
+# Demineur
 Mini Projet JavaScript LP DAGPI
